@@ -1,0 +1,24 @@
+.collapsed-items {
+	background-color: #E5E2E1 ;
+}
+
+.navbar-brand {
+	font-size: 2em;
+}
+
+h1 {
+	font-size: 2em ;
+}
+
+section {
+	background-color: #E5E2E1 ;
+	margin: 15px 15px 15px 15px;
+	padding: 1px 15px 5px 15px;
+}
+
+
+
+.top {
+	background-color: #FAAF96 ;
+	margin-bottom: 0px;
+}
